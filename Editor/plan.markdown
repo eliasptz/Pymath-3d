@@ -515,3 +515,11 @@ Maak een PySide6 editor skelet in Editor/Editor.py met:
 
 Daarna pas voegen we echte scene-data, nodes en engine-koppeling toe.
 
+## Versie 2
+
+- rename functie van nodes of scenes
+- 3 knoppen new scene en new class en save van boven moeten weg
+- Werkende saving als je uit de editor gaat met de scenes, classes en nodes. deze saving moet in de Game/data folder worden gedaat
+- pasting van de class instances
+- zoals in godot een script kunnen aanmaken dat vast zit aan de node scene of class
+- Je moet een node kunnen selectreren en dan met de inspector de data echt kunnen veranderen, deze data moet net als de rest als je gaat afsluiten worden gesavet in de Game/data

@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "documents": [
+    {
+      "id": "fe675348-a615-4a06-80da-bef5b627d6c6",
+      "name": "game_play.scene",
+      "kind": "scene",
+      "nodes": [
+        {
+          "id": "54fe4558-8643-4871-99fd-03a1800b0c76",
+          "name": "Scene Root",
+          "type": "Structure Node",
+          "position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "obj_file": "",
+          "script": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "59535da1-f5db-4d81-80e4-4c99865ffa2b",
+      "name": "Pickup.class",
+      "kind": "class",
+      "nodes": [
+        {
+          "id": "d0f4f670-f9e4-4e7f-8343-c63ba61865e5",
+          "name": "Class Root",
+          "type": "Structure Node",
+          "position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "rotation": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "scale": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "obj_file": "",
+          "script": "",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
